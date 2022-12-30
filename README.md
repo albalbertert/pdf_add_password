@@ -1,0 +1,1 @@
+## This is a script to ensure protecting the PDF file and vice versa.
